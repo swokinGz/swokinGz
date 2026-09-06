@@ -19,7 +19,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=swokinGz&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![Followers](https://img.shields.io/github/followers/swokinGz?style=for-the-badge&color=2c5364&labelColor=000&logoColor=00C6FF)](https://github.com/swokinGz?tab=followers)
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/rainbow-superthin.gif" width="100%">
+<img src="https://capsule-render.com/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=3&width=1000" width="100%">
 
 </div>
 
@@ -42,7 +42,7 @@ languages: [Español (avanzado), Português (avançado), English (intermediate)]
 looking_for: IT Support (N2) · IT Infrastructure · Junior Cybersecurity · AI Automation
 ```
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/rainbow-superthin.gif" width="100%">
+<img src="https://capsule-render.com/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=3&width=1000" width="100%">
 
 ### 🛠️ Skills & Tools
 
@@ -61,7 +61,7 @@ looking_for: IT Support (N2) · IT Infrastructure · Junior Cybersecurity · AI 
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/rainbow-superthin.gif" width="100%">
+<img src="https://capsule-render.com/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=3&width=1000" width="100%">
 
 ### 📊 GitHub Stats
 
@@ -72,7 +72,7 @@ looking_for: IT Support (N2) · IT Infrastructure · Junior Cybersecurity · AI 
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swokinGz&theme=dark&hide_border=true&background=0f2027&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"/>
+<img src="https://streak-stats.demolab.com/?user=swokinGz&theme=dark&hide_border=true&background=0f2027&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"/>
 
 <br/>
 
@@ -80,7 +80,7 @@ looking_for: IT Support (N2) · IT Infrastructure · Junior Cybersecurity · AI 
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/rainbow-superthin.gif" width="100%">
+<img src="https://capsule-render.com/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=3&width=1000" width="100%">
 
 ### 📫 Contact
 
