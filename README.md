@@ -101,7 +101,6 @@ Analista de Service Desk trilíngue con base sólida en ITSM/ITIL, Linux, redes 
 
 [![LinkedIn](https://img.shields.io/badge/-christiandanglades-05060a?style=for-the-badge&logo=linkedin&logoColor=00fff2)](https://linkedin.com/in/christiandanglades)
 [![Gmail](https://img.shields.io/badge/-christiandanglades123%40gmail.com-05060a?style=for-the-badge&logo=gmail&logoColor=ff2079)](mailto:christiandanglades123@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-%2B55%2043%2098838--0063-05060a?style=for-the-badge&logo=whatsapp&logoColor=7b2ff7)](https://wa.me/5543988380063)
 
 <br/>
 
