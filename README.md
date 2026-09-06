@@ -19,7 +19,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=swokinGz&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![Followers](https://img.shields.io/github/followers/swokinGz?style=for-the-badge&color=2c5364&labelColor=000&logoColor=00C6FF)](https://github.com/swokinGz?tab=followers)
 
-<img src="https://capsule-render.com/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=3&width=1000" width="100%">
+---
 
 </div>
 
@@ -42,13 +42,18 @@ languages: [Español (avanzado), Português (avançado), English (intermediate)]
 looking_for: IT Support (N2) · IT Infrastructure · Junior Cybersecurity · AI Automation
 ```
 
-<img src="https://capsule-render.com/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=3&width=1000" width="100%">
+---
 
 ### 🛠️ Skills & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,windows,python,mysql,git,github,bash&theme=dark" />
+![Linux](https://img.shields.io/badge/Linux-0f2027?style=for-the-badge&logo=linux&logoColor=00C6FF)
+![Windows](https://img.shields.io/badge/Windows-2c5364?style=for-the-badge&logo=windows11&logoColor=00C6FF)
+![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=00C6FF)
+![MySQL](https://img.shields.io/badge/SQL-2c5364?style=for-the-badge&logo=mysql&logoColor=00C6FF)
+![Git](https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=00C6FF)
+![GitHub](https://img.shields.io/badge/GitHub-2c5364?style=for-the-badge&logo=github&logoColor=00C6FF)
 
 <br/><br/>
 
@@ -61,7 +66,7 @@ looking_for: IT Support (N2) · IT Infrastructure · Junior Cybersecurity · AI 
 
 </div>
 
-<img src="https://capsule-render.com/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=3&width=1000" width="100%">
+---
 
 ### 📊 GitHub Stats
 
@@ -80,7 +85,7 @@ looking_for: IT Support (N2) · IT Infrastructure · Junior Cybersecurity · AI 
 
 </div>
 
-<img src="https://capsule-render.com/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=3&width=1000" width="100%">
+---
 
 ### 📫 Contact
 
