@@ -19,7 +19,7 @@ body.append(f'  <text x="{pad_left}" y="{y0}" fill="{CYAN}" font-size="13">&gt;&
 
 y = y0 + 34
 for label, text, href, color in links:
-    body.append(f'  <a xlink:href="{href}" target="_blank">')
+    body.append(f'  <a href="{href}" target="_blank">')
     body.append(f'  <rect x="{pad_left}" y="{y-16}" width="120" height="24" rx="5" fill="none" stroke="{color}" stroke-width="1.1"/>')
     body.append(f'  <text x="{pad_left+60}" y="{y}" text-anchor="middle" fill="{color}" font-size="11" letter-spacing="0.5">{esc(label)}</text>')
     body.append(f'  <text x="{pad_left+134}" y="{y}" fill="{DIM}" font-size="12.5">{esc(text)}</text>')

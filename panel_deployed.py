@@ -13,7 +13,7 @@ body.append(f'  <text x="{pad_left}" y="{y0}" fill="{CYAN}" font-size="13">&gt;&
 card_y = y0 + 22
 card_h = 96
 card_w = width - 2*pad_left
-body.append(f'  <a xlink:href="https://github.com/swokinGz/ChrisCyberSec-Portfolio" target="_blank">')
+body.append(f'  <a href="https://github.com/swokinGz/ChrisCyberSec-Portfolio" target="_blank">')
 body.append(f'  <rect x="{pad_left}" y="{card_y}" width="{card_w}" height="{card_h}" rx="8" fill="none" stroke="{LINE}" stroke-width="1.2"/>')
 body.append(f'  <circle cx="{pad_left+18}" cy="{card_y+24}" r="4" fill="{MAGENTA}"/>')
 body.append(f'  <text x="{pad_left+34}" y="{card_y+29}" fill="{DIM}" font-size="14" font-weight="bold">ChrisCyberSec-Portfolio</text>')
