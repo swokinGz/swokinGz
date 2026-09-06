@@ -110,7 +110,6 @@ Analista de Service Desk trilíngue (ES/PT/EN) con 3+ años gestionando incident
 
 [![LinkedIn](https://img.shields.io/badge/-christiandanglades-00C6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christiandanglades)
 [![Gmail](https://img.shields.io/badge/-christiandanglades123%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christiandanglades123@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-%2B55%2043%2098838--0063-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00C6FF)](https://wa.me/5543988380063)
 
 <br/>
 
